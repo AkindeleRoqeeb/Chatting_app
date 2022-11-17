@@ -1,3 +1,3 @@
 # Chatting app.
 
-# React Native..
+# React Native.
